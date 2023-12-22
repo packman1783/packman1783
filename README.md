@@ -19,7 +19,4 @@ I'm a beginner Java developer
 ## ☎️Contacts
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/DenisSaplitsyn)
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](packman1735@gmail.com)
-<!---
-packman1783/packman1783 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
