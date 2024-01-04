@@ -2,9 +2,12 @@
 
 
 ## About me:
-I'm a beginner Java developer
-* My portfolio at [CV](http://https://cv.hexlet.io/ru/resumes/3332)
-* Courses [Java developer](https://ru.hexlet.io/programs/java) at Hexlet online school 
+I am a beginner Java developer, at the moment i am actively improving my qualifications by reading professional
+literature and taking courses at the Hexlet online school, trying to be interested in new products in the field of IT
+as well as those related to JAVA, in order to find a full-time job or internship in my field
+
+## Portfolio
+[![Static Badge](https://img.shields.io/badge/CV-00CED1?style=for-the-badge&logo=hexlet&logoColor=blue)](https://cv.hexlet.io/ru/resumes/3332)
 
 
 ## Skills:
