@@ -1,7 +1,7 @@
  # Hi there, 👋 Welcome to my GitHub Profile
 
 
-<img src="https://fons.pibig.info/uploads/posts/2023-06/1687298281_fons-pibig-info-p-oboi-aitishnika-pinterest-32.png" width="800" height="200">
+<img src="https://fons.pibig.info/uploads/posts/2023-06/1687298281_fons-pibig-info-p-oboi-aitishnika-pinterest-32.png" width="800" height="250">
 
 
 ## About me:
