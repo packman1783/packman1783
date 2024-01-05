@@ -1,6 +1,9 @@
  # Hi there, 👋 Welcome to my GitHub Profile
 
 
+![ITimage](https://fons.pibig.info/uploads/posts/2023-06/1687298281_fons-pibig-info-p-oboi-aitishnika-pinterest-32.png)
+
+
 ## About me:
 I am a beginner Java developer, at the moment i am actively improving my qualifications by reading professional
 literature and taking courses at the Hexlet online school, trying to be interested in new products in the field of IT
