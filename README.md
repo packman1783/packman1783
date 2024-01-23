@@ -9,7 +9,7 @@ literature and taking courses at the Hexlet online school, trying to be interest
 as well as those related to JAVA, in order to find a full-time job or internship in my field
 
 ## Portfolio
-[![Static Badge](https://img.shields.io/badge/CV-00CED1?style=for-the-badge&logo=hexlet&logoColor=blue)](https://cv.hexlet.io/ru/resumes/3332)
+[![Static Badge](https://img.shields.io/badge/CV-00b8e0?style=for-the-badge&logo=hexlet&logoColor=0d00e0)](https://cv.hexlet.io/ru/resumes/3332)
 
 
 ## Skills:
