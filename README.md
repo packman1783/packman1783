@@ -1,4 +1,4 @@
- # Hi there, 👋 Welcome to my GitHub Profile
+<h1 align="center">Hi there,<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Welcome to my GitHub Profile</h1>
 <p align="center">
   <img width="800" height="300" src="https://fons.pibig.info/uploads/posts/2023-06/1687298281_fons-pibig-info-p-oboi-aitishnika-pinterest-32.png">
 </p>
