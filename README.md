@@ -9,16 +9,17 @@ literature and taking courses at the Hexlet online school, trying to be interest
 as well as those related to JAVA, in order to find a full-time job or internship in my field
 
 ## Portfolio
-[![Static Badge](https://img.shields.io/badge/CV-00b8e0?style=for-the-badge&logo=hexlet&logoColor=0d00e0)](https://cv.hexlet.io/ru/resumes/3332)
+[![hexletCV](https://img.shields.io/badge/CV-00b8e0?style=for-the-badge&logo=hexlet&logoColor=0d00e0)](https://cv.hexlet.io/ru/resumes/3332)
 
 
 ## Skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/junit-%23FDEBD0?style=for-the-badge&logo=junit5&logoColor=white&color=%2325A162)
- 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ## Contacts
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/DenisSaplitsyn)
