@@ -26,3 +26,6 @@ as well as those related to JAVA, in order to find a full-time job or internship
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/DenisSaplitsyn)
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:packman1735@gmail.com)
 
+## Statistic
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=packman1783&layout=compact)](https://github.com/packman1783/github-readme-stats)
+
