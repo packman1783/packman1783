@@ -1,7 +1,5 @@
-<h1 align="center">Hi there 👋, Welcome to my GitHub Profile</h1>
-<p align="center">
-  <img width="800" height="300" src="https://fons.pibig.info/uploads/posts/2023-06/1687298281_fons-pibig-info-p-oboi-aitishnika-pinterest-32.png">
-</p>
+
+![226190894-18e959ba-d458-4a94-ac44-790190f2a947](https://github.com/packman1783/packman1783/assets/138787572/c31b0d1e-3ce0-4322-8b92-56fbb0fcd8fa)
 
 ## About me:
 I am a beginner Java developer, at the moment i am actively improving my qualifications by reading professional
