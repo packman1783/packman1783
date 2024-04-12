@@ -1,11 +1,8 @@
 
 <h1 align="center">Hi there 👋, Welcome to my GitHub Profile</h1>
 <p align="center">
-  <img width="1100" height="130" src="https://github.com/packman1783/packman1783/assets/138787572/ebd8efca-de9a-4027-bf78-ea979985cc19">
+  <img width="1100" height="180" src="https://github.com/packman1783/packman1783/assets/138787572/6ccd5e74-2177-4379-a6f7-633085fb61fc">
 </p>
-
-
-
 
 ## About me:
 I am a beginner Java developer, at the moment i am actively improving my qualifications by reading professional
