@@ -20,6 +20,7 @@ as well as those related to JAVA, in order to find a full-time job or internship
 ![Postgres](https://img.shields.io/badge/postgres-003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JUnit](https://img.shields.io/badge/junit-%23FDEBD0?style=for-the-badge&logo=junit5&logoColor=white&color=%2325A162)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
