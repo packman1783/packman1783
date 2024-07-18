@@ -6,7 +6,7 @@
 
 ## About me:
 I am a beginner Java developer, at the moment i am actively improving my qualifications by reading professional
-literature and taking courses at the Hexlet online school, trying to be interested in new products in the field of IT
+literature and taking courses, trying to be interested in new products in the field of IT
 as well as those related to JAVA, in order to find a full-time job or internship in my field
 
 ## Portfolio
@@ -30,5 +30,4 @@ as well as those related to JAVA, in order to find a full-time job or internship
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:packman1735@gmail.com)
 
 ## Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=packman1783&layout=compact&theme=onedark)](https://github.com/packman1783/github-readme-stats)
-
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=packman1783&layout=compact&hide=shell,html&theme=onedark)
